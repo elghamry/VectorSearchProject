@@ -1,0 +1,31 @@
+<?php
+$user='root';
+$pass='';
+$dbname='login';
+$db=new mysqli('localhost',$user,$pass,$dbname) or die("Couldn't connect to database");
+
+
+
+?>
+
+<html>
+<head>
+	<title>
+Login Page
+	</title>
+  <link rel='stylesheet' type='text/css' href='search.css'>
+</head>
+	<form action="login.php" method="post" class='form-wrapper'>
+		Username: <input type="text" name="username" id="search" placeholder="Enter Username" required><p>
+		Password: <input type="password" name="password" id="search" placeholder="Enter Password" required><p>
+			  <input type="submit" value="login" id='submit'>
+			    
+				
+
+	</form>
+	<input type="submit" value="search" id='submit' class='button' onclick="location.href='./search.html'">
+
+
+</html>
+
+

@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<books>
+
+
+<book>
+<isbn>	9812142649=</isbn>
+<author>Scott D.Palmer</author>
+<title>	Programmers introduction to turbo Pascal for windows (SH)  </title>
+<description>........</description>
+
+<statementOfResponsibility>Scott D.Palmer</statementOfResponsibility>
+<placeOfPublication>China</placeOfPublication>
+<nameOfPublisher>Tech publications pte ltd</nameOfPublisher>
+<dateOfPublication>199</dateOfPublication>
+<Extent> 499 pages</Extent>
+
+</book>
+
+
+
+<book>
+<isbn>	9812142649</isbn>
+<author>Scott D.Palmer</author>
+<title>	Programmers introduction to turbo Pascal for windows (SH)  </title>
+<description>........</description>
+
+<statementOfResponsibility>Scott D.Palmer</statementOfResponsibility>
+<placeOfPublication>China</placeOfPublication>
+<nameOfPublisher>Tech publications pte ltd</nameOfPublisher>
+<dateOfPublication>1997</dateOfPublication>
+<Extent> 499 pages</Extent>
+
+</book>
+
+<book>
+<isbn>1853830038</isbn>
+<author>Irene Dankelman.</author>
+<title>Women and environment in the Third World  </title>
+<description>........</description>
+
+<statementOfResponsibility>Irene Dankelman and Joan Davidson.</statementOfResponsibility>
+<placeOfPublication>London</placeOfPublication>
+<nameOfPublisher>Earthscan Pub. in association with IUCN</nameOfPublisher>
+<dateOfPublication>1998</dateOfPublication>
+<Extent> 210 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0824706595</isbn>
+<author>Sing-Tze Bow.</author>
+<title>Women and environment in the Third World  </title>
+<description>a)	Image processing
+	        x)	Digital techniques.</description>
+
+<statementOfResponsibility>Sing-Tze Bow.</statementOfResponsibility>
+<placeOfPublication>New York</placeOfPublication>
+<nameOfPublisher>Marcel Dekker</nameOfPublisher>
+<dateOfPublication>2002</dateOfPublication>
+<Extent> 698 pages</Extent>
+
+</book>
+
+
+<book>
+<isbn>0273028405</isbn>
+<author>David A. Watt.</author>
+<title>	The professional programmers guide to Pascal </title>
+<description>	Computer Program.</description>
+
+<statementOfResponsibility>David A. Watt.</statementOfResponsibility>
+<placeOfPublication>New York</placeOfPublication>
+<nameOfPublisher>Pitman</nameOfPublisher>
+<dateOfPublication>1988</dateOfPublication>
+<Extent> 115 pages</Extent>
+
+</book>
+
+<book>
+<isbn>061925548x</isbn>
+<author>Gary B. Shelly.</author>
+<title>		Discovering computers 2006</title>
+<description>	a)	Discovering computers 2006 :
+			b)	A gateway to information /
+			c)	Gary B. Shelly ; Joint Author Thomas J. Cashman, Misty E. Vermaat..</description>
+
+<statementOfResponsibility>Gary B. Shelly ; Joint Author Thomas J. Cashman, Misty E. Vermaat.</statementOfResponsibility>
+<placeOfPublication>Boston </placeOfPublication>
+<nameOfPublisher>Thomson course technology</nameOfPublisher>
+<dateOfPublication>2005</dateOfPublication>
+<Extent> 180 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0201616416</isbn>
+<author>Kent Beck.</author>
+<title>	extreme programming eXplained</title>
+<description>		Computer software / Development.</description>
+
+<statementOfResponsibility>Kent Beck.</statementOfResponsibility>
+<placeOfPublication>Reading, MA </placeOfPublication>
+<nameOfPublisher>Addison-Wesley</nameOfPublisher>
+<dateOfPublication>2000</dateOfPublication>
+<Extent> 190 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0201710145</isbn>
+<author>Kevin Meltzer.</author>
+<title>Writing CGI application with Perl</title>
+<description>Perl (Computer program language)
+		  CGI (Computer network protocol).</description>
+
+<statementOfResponsibility>Kevin Meltzer, Brent Michalski.</statementOfResponsibility>
+<placeOfPublication>Boston</placeOfPublication>
+<nameOfPublisher>Addison-Wesley</nameOfPublisher>
+<dateOfPublication>2001</dateOfPublication>
+<Extent> 528 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0679791477</isbn>
+<author>Steve Petrucci.</author>
+<title>	Cross-Platform Power Tools</title>
+<description>Operating systems (Computers)
+		  a)	Macintosh (Computer)
+	   	  x)	Programming.</description>
+
+<statementOfResponsibility>Steve Petrucci.</statementOfResponsibility>
+<placeOfPublication>New York</placeOfPublication>
+<nameOfPublisher>Random House Electronic Publishing</nameOfPublisher>
+<dateOfPublication>1993</dateOfPublication>
+<Extent> 405 pages</Extent>
+
+</book>
+
+<book>
+<isbn>995310302x</isbn>
+<author>tayseer Al-kilani.</author>
+<title>		Al-Kilani Dictionary Of Computer Terminology </title>
+<description>dictionary for computer electronics
+	   </description>
+
+<statementOfResponsibility>tayseer Al-kilani,Mazen Al-kilani.</statementOfResponsibility>
+<placeOfPublication>beirut</placeOfPublication>
+<nameOfPublisher>lebanon library Publishing</nameOfPublisher>
+<dateOfPublication>1996</dateOfPublication>
+<Extent> 685 pages</Extent>
+
+</book>
+<book>
+<isbn>0070517991</isbn>
+<author>Robert C. Reid.</author>
+<title>		The properties of gases and liquids </title>
+<description>	Liquids / properties.   
+			Gases / properties.   
+	   </description>
+
+<statementOfResponsibility>	Robert C. Reid, John M. Prausnitz, Bruce E. Poling.</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>McGraw-Hill,</nameOfPublisher>
+<dateOfPublication>1987</dateOfPublication>
+<Extent> 741 pages</Extent>
+
+</book>
+
+
+
+<book>
+<isbn>0618226036</isbn>
+<author>	Charles Bazerman.</author>
+<title>		Writing skills handbook</title>
+<description>	English language / Rhetoric -Handbooks, manuals, etc.   
+			English language / Grammar -Handbooks, manuals, etc.      
+	   </description>
+
+<statementOfResponsibility>	Charles Bazerman, Harvey S. Wiener.</statementOfResponsibility>
+<placeOfPublication>	Boston </placeOfPublication>
+<nameOfPublisher>	Houghton Mifflin</nameOfPublisher>
+<dateOfPublication>2003</dateOfPublication>
+<Extent> 165 pages</Extent>
+
+</book>
+
+<book>
+<isbn>	0070481032</isbn>
+<author>	J. John Palen.</author>
+<title>			Social problems</title>
+<description>	Sociology.
+	   </description>
+
+<statementOfResponsibility>	J. John Palen</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>		McGraw-Hill,</nameOfPublisher>
+<dateOfPublication>1979</dateOfPublication>
+<Extent> 625 pages</Extent>
+
+</book>
+<book>
+<isbn>		0070481075</isbn>
+<author>	J. John Palen.</author>
+<title>			The urban world</title>
+<description>	Developing countries.
+	   </description>
+
+<statementOfResponsibility>	J. John Palen</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>		McGraw-Hill,</nameOfPublisher>
+<dateOfPublication>1981</dateOfPublication>
+<Extent> 477 pages</Extent>
+
+</book>
+<book>
+<isbn>			0195028406</isbn>
+<author>	Sharon S. Brehm.</author>
+<title>			Developmental social psychology</title>
+<description>	Social psychology.
+	Developmental psychology.
+	Child development.
+	Social behavior / In infancy and childhood.
+	   </description>
+
+<statementOfResponsibility>	edited by Sharon S. Brehm, Saul M. Kassin, Frederick X. Gibbons.</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>		Oxford University Press</nameOfPublisher>
+<dateOfPublication>1981</dateOfPublication>
+<Extent> 376 pages</Extent>
+
+</book>
+<book>
+<isbn>		8879831739</isbn>
+<author>	Giorgio Vasari</author>
+<title>				Le vite dei piu? eccellenti pittori, scultori e architetti</title>
+<description>	Artists - / Italy - -Biography.   
+	   </description>
+
+<statementOfResponsibility>	Giorgio Vasari, Maurizio Marini.</statementOfResponsibility>
+<placeOfPublication>	Roma </placeOfPublication>
+<nameOfPublisher>		grandi tascabili economici Newton</nameOfPublisher>
+<dateOfPublication>1991</dateOfPublication>
+<Extent> 1398 pages</Extent>
+
+</book>
+
+
+<book>
+<isbn>0195063589</isbn>
+<author>	Michael S. Scott Morton</author>
+<title>					The Corporation of the 1990s</title>
+<description>		Management - / Data processing.   
+	Information technology - / Management.   
+	Organizational change.
+	   </description>
+
+<statementOfResponsibility>	edited by Michael S. Scott Morton.</statementOfResponsibility>
+<placeOfPublication>	New York  </placeOfPublication>
+<nameOfPublisher>		Oxford University Press</nameOfPublisher>
+<dateOfPublication>1991</dateOfPublication>
+<Extent> 331 pages</Extent>
+
+</book>
+<book>
+<isbn>	0333177207</isbn>
+<author>	J. F. Woodward.</author>
+<title>			J. F. Woodward.</title>
+<description>		Critical Path Analysis.
+	   </description>
+
+<statementOfResponsibility>[by] J. F. Woodward.</statementOfResponsibility>
+<placeOfPublication>	london </placeOfPublication>
+<nameOfPublisher>		Macmillan,Press</nameOfPublisher>
+<dateOfPublication>1975</dateOfPublication>
+<Extent> 185 pages</Extent>
+
+</book>
+
+<book>
+<isbn>	9781292042176</isbn>
+<author>	Charles L. Harper.</author>
+<title>	Environment and Society</title>
+<description>			Pesticides - / Health aspects.   
+	Pesticides - / Government policy.   
+	Natural resources - / Management.   
+	Economic development - / Environmental aspects.   
+	Environmental sciences - / Social aspects. 
+	   </description>
+
+<statementOfResponsibility>Charles L. Harper.</statementOfResponsibility>
+<placeOfPublication>	london </placeOfPublication>
+<nameOfPublisher>	Pearson</nameOfPublisher>
+<dateOfPublication>2014</dateOfPublication>
+<Extent> 269 pages</Extent>
+
+</book>
+
+<book>
+<isbn>9780763775056</isbn>
+<author>	Brian Luke Seaward.</author>
+<title>	Essentials of managing stress </title>
+<description>			Stress management
+	   </description>
+
+<statementOfResponsibility>Brian Luke Seaward.</statementOfResponsibility>
+<placeOfPublication>	Sudbury, Mass. </placeOfPublication>
+<nameOfPublisher>	Jones and Bartlett Publishers</nameOfPublisher>
+<dateOfPublication>2011</dateOfPublication>
+<Extent> 314 pages</Extent>
+</book>
+<book>
+<isbn>9783642265204</isbn>
+<author>Terje Aven.</author>
+<title>Risk management and governance  </title>
+<description>	Risk management / Case studies.  
+	   </description>
+
+<statementOfResponsibility>Terje Aven and Ortwin Renn</statementOfResponsibility>
+<placeOfPublication>	Heidelberg. </placeOfPublication>
+<nameOfPublisher>	Springer</nameOfPublisher>
+<dateOfPublication>2010</dateOfPublication>
+<Extent> 276 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0894134213</isbn>
+<author>David McNamee.</author>
+<title>	Risk management</title>
+<description>		changing the internal auditor’s paradigm
+	   </description>
+
+<statementOfResponsibility>David McNamee, Georges M. Selim.</statementOfResponsibility>
+<placeOfPublication>	Altamonte Springs, Fla.  </placeOfPublication>
+<nameOfPublisher>Institute of Internal Auditors Research Foundation,</nameOfPublisher>
+<dateOfPublication>1998</dateOfPublication>
+<Extent> 218 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0631231676</isbn>
+<author>Mike McNamee .</author>
+<title>	The ethics of educational research</title>
+<description>	Originally issued as a special issue of Journal of philosophy of education, 2001
+	   </description>
+
+<statementOfResponsibility>edited by Mike McNamee and David Bridges.</statementOfResponsibility>
+<placeOfPublication>	Oxford  </placeOfPublication>
+<nameOfPublisher>Blackwell</nameOfPublisher>
+<dateOfPublication>2002</dateOfPublication>
+<Extent> 267 pages</Extent>
+
+</book>
+<book>
+<isbn>0421587407</isbn>
+<author>Mary Seneviratne.</author>
+<title>		The legal profession </title>
+<description>	a)	Legal ethics
+			z)Great Britain.
+	   </description>
+
+<statementOfResponsibility>Mary Seneviratne.</statementOfResponsibility>
+<placeOfPublication>	London  </placeOfPublication>
+<nameOfPublisher>Sweet  Maxwell,</nameOfPublisher>
+<dateOfPublication>1999</dateOfPublication>
+<Extent> 233 pages</Extent>
+
+</book>
+<book>
+<isbn>9780132145213</isbn>
+<author>Charles B. Fleddermann.</author>
+<title>Engineering ethics </title>
+<description>		ESource--the Prentice Hall engineering source.
+	   </description>
+
+<statementOfResponsibility>Charles B. Fleddermann.</statementOfResponsibility>
+<placeOfPublication>	Upper Saddle River </placeOfPublication>
+<nameOfPublisher>Prentice Hall,</nameOfPublisher>
+<dateOfPublication>2012</dateOfPublication>
+<Extent> 178 pages</Extent>
+
+</book>
+<book>
+<isbn>	0316314285</isbn>
+<author>Stephen Gillers.</author>
+<title>	Regulation of lawyers </title>
+<description>		Legal ethics / United States -Cases. 
+	   </description>
+
+<statementOfResponsibility>Charles B. Fleddermann.</statementOfResponsibility>
+<placeOfPublication>	Boston </placeOfPublication>
+<nameOfPublisher>Little, Brown</nameOfPublisher>
+<dateOfPublication>1992</dateOfPublication>
+<Extent> 900 pages</Extent>
+
+</book>
+
+<book>
+<isbn>0345433149</isbn>
+<author>Richard Zitrin.</author>
+<title>		The moral compass of the American lawyer </title>
+<description>			Practice of law / United States.  
+	   </description>
+
+<statementOfResponsibility>Richard Zitrin, Carol M. Langford.</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>Ballantine Books,</nameOfPublisher>
+<dateOfPublication>1999</dateOfPublication>
+<Extent> 274 pages</Extent>
+
+</book>
+<book>
+<isbn>0230600891</isbn>
+<author>	Albino Barrera.</author>
+<title>	Globalization and economic ethics </title>
+<description>		Information society / Economic aspects.   
+	Economic development / Social aspects.   
+	International economic integration / Social aspects.   
+	   </description>
+
+<statementOfResponsibility>	Albino Barrera.</statementOfResponsibility>
+<placeOfPublication>	New York </placeOfPublication>
+<nameOfPublisher>Palgrave Macmillan</nameOfPublisher>
+<dateOfPublication>2007</dateOfPublication>
+<Extent> 286 pages</Extent>
+
+</book>
+
+<book>
+<isbn>9781119967088 </isbn>
+<author> Ramesh C. Chandan.</author>
+<title>Manufacturing Yogurt and Fermented Milks</title>
+<description>			Yogurt.
+	Fermented milk.
+	Dairy processing.
+	Food industry and trade.   
+	   </description>
+
+<statementOfResponsibility>Edited by Ramesh C. Chandan and Arun Kilara.</statementOfResponsibility>
+<placeOfPublication>	Chichester, West Sussex</placeOfPublication>
+<nameOfPublisher>Wiley-Blackwell</nameOfPublisher>
+<dateOfPublication>2013</dateOfPublication>
+<Extent> 477 pages</Extent>
+</book>
+<book>
+<isbn>1119067324 </isbn>
+<author> Bart M. Demaerschalk.</author>
+<title>	Evidence-based neurology </title>
+<description>Nervous System Diseases / therapy.      
+	   </description>
+
+<statementOfResponsibility>edited by Bart M. Demaerschalk, Dean M. Wingerchuk.</statementOfResponsibility>
+<placeOfPublication>	West Sussex, UK :</placeOfPublication>
+<nameOfPublisher>Wiley-Blackwell</nameOfPublisher>
+<dateOfPublication>2015</dateOfPublication>
+<Extent> 616 pages</Extent>
+
+
+</book>
+
+
+
+
+
+</books>
