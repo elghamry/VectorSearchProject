@@ -91,16 +91,7 @@ for ($i = 0; $i < count($query_unique); $i++) {
 //print_r($idf);
 //idf in the query_itself
 
-for ($i = 0; $i < count($query_unique); $i++) {
-    if($df[$i]!=0)
-
-    $self_idf[$i]=log(5/$df[$i],2);
-    else
-        $self_idf[$i]=0;
-
-
-
-}
+// s
 //print_r($self_idf);
 //weights_vector
 
@@ -228,14 +219,14 @@ for($i=0;$i<20;$i++)
 
 
 echo "<br>";
-//print_r($a);
-//echo "<br>";
-//print_r($h);
-//echo "<br>";
-//echo "<br>";
-//$temp1=array(array(1,2,3),array(4,5,6),array(7,8,9));
-//$temp2=array(array(5,8,9),array(6,4,5),array(2,8,9));
-//print_r(M_mult($temp1,$temp2));
+print_r($a);
+echo "<br>";
+print_r($h);
+echo "<br>";
+echo "<br>";
+$temp1=array(array(1,2,3),array(4,5,6),array(7,8,9));
+$temp2=array(array(5,8,9),array(6,4,5),array(2,8,9));
+print_r(M_mult($temp1,$temp2));
 
 
 
